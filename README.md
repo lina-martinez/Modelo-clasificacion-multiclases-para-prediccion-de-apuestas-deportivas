@@ -1,6 +1,6 @@
 # Modelo-clasificacion-multiclases-para-prediccion-de-apuestas-deportivas
 
-* Autores
+  Autores
 * Lina María Martínez Arias
 * Santiago Marulanda Vélez
 
