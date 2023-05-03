@@ -6,12 +6,15 @@
 
 Monografía presentada para optar al título de Especialista en Analítica y Ciencia de Datos
 
-Tutor
+Tutor: 
 Javier Fernando Botia Valderrama, Doctor (PhD)
 
-Universidad de Antioquia
-Facultad de Ingeniería
+Universidad de Antioquia, Facultad de Ingeniería
+
+
 Medellín, Antioquia, Colombia
+
+
 2023 	
 
 
